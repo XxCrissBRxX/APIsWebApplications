@@ -1,0 +1,36 @@
+header{    
+    background-color: antiquewhite;
+    color: brown;
+    text-align: center;
+}
+
+.corpo{
+    background-color: chocolate;
+}
+
+form{    
+    margin-left: 2em;
+}
+
+input{
+    font-family: Gerorgia;
+    font-size: 20px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;  
+    
+}
+
+button{
+    background-color: blue;
+    color: cornsilk;
+    font-family: Cambria;
+    margin-bottom: 0.5em;
+}
+
+footer{
+    position:absolute;
+	bottom:0;
+	width:100%;
+    background-color: aquamarine;
+    color: brown;
+}
